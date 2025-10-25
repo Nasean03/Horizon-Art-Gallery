@@ -49,6 +49,7 @@ Runs locally via **WAMP**: `http://localhost/horizon-art-gallery/`
 
 
 🚀 Usage
+     
       ✅ Manage Artists: add, edit, delete, list
       🚧 Artworks, Exhibitions, Transactions: coming soon
 
