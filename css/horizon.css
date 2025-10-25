@@ -1,0 +1,145 @@
+body {
+    background-color: rgb(243,228,203);
+    
+}
+
+.mainTitle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#logo {
+    right: 20px;
+    height: 80px;
+    width: 86px;
+    cursor: pointer;
+}
+
+#logo1 {
+    height: 500px;
+    width: 500px;
+}
+
+.titles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titles h2 {
+    align-self: center;
+    margin-top: 0;
+    padding: 0;
+}
+
+.titles h1 {
+    margin-bottom: 0;
+    padding: 0;
+}
+
+#textfield {
+    background-color: rgb(233,183,107);
+    border: 1px solid black;
+    width: 100%;
+    padding: 5px;
+    padding-right: 70px;
+    font-size: large;
+}
+
+#clinicid {
+    cursor: pointer;
+    font-size: medium;
+    text-align: center;
+    padding: 6px;
+    background-color: rgb(233,183,107);
+    border: 1px solid black;
+    width: 100%;
+    transition-duration: 0.4s;
+}
+
+#clinicid:hover {
+    background-color: rgb(210,117,43);
+}
+
+#staffID {
+    cursor: pointer;
+    font-size: medium;
+    text-align: center;
+    padding: 6px;
+    background-color: rgb(233,183,107);
+    border: 1px solid black;
+    width: 100%;
+    transition-duration: 0.4s;
+}
+
+#staffID:hover {
+    background-color: rgb(210,117,43);
+}
+
+
+#artistID {
+    cursor: pointer;
+    font-size: medium;
+    text-align: center;
+    padding: 6px;
+    background-color: rgb(233,183,107);
+    border: 1px solid black;
+    width: 100%;
+    transition-duration: 0.4s;
+}
+
+#artistID:hover {
+    background-color: rgb(210,117,43);
+}
+
+
+#nationality {
+    cursor: pointer;
+    font-size: medium;
+    text-align: center;
+    padding: 6px;
+    background-color: rgb(233,183,107);
+    border: 1px solid black;
+    width: 100%;
+    transition-duration: 0.4s;
+}
+
+#nationality:hover {
+    background-color: rgb(210,117,43);
+}
+#btn {
+    cursor: pointer;
+    font-size: medium;
+    text-align: center;
+    padding: 10px 30px;
+    background-color: rgb(233,183,107);
+    transition-duration: 0.4s;
+}
+
+#btn:hover {
+    background-color: rgb(210,117,43);
+}
+
+#menu a {
+    text-decoration: none;
+    color: black;
+}
+
+#menu a:hover {
+    color: rgb(210,117,43);
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.formtable {
+    display: flex;
+    justify-content: center;
+}
+
+#label {
+    padding-right: 50px;
+}
+
